@@ -1,9 +1,9 @@
 package main
 
 import (
-	"saas_autopack/util"
 	"errors"
 	"fmt"
+	"github.com/RXDA/saas_autopack/util"
 	"io/ioutil"
 	"os"
 	"os/exec"
