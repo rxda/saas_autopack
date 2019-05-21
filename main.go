@@ -1,7 +1,7 @@
 package main
 
 import (
-	"autopack/util"
+	"saas_autopack/util"
 	"errors"
 	"fmt"
 	"io/ioutil"
