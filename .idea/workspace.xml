@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14a54d85-123b-4a1c-bab0-680edce8d71c" name="Default Changelist" comment="帮你借新项目" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/go.mod">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/CopyUtil.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>keyBorder</find>
+      <find>welcome1</find>
+      <find>netToggleCollect</find>
+      <find>handleCollect</find>
+      <find>handleDetail</find>
+      <find>componentWillUnmount</find>
+      <find>product-detail</find>
+      <find>loan_money_max_text</find>
+      <find>degree</find>
+      <find>back</find>
+      <find>back()</find>
+      <find>focusStyle</find>
+      <find>style</find>
+      <find>codeChange</find>
+      <find>onValueChange</find>
+      <find>handleDetailToDetail</find>
+      <find>alert</find>
+      <find>getData</find>
+      <find>ProductDetailsSource</find>
+      <find>getD</find>
+      <find>netProductDetailSource</find>
+      <find>netProductDetail</find>
+      <find>instance</find>
+      <find>85</find>
+      <find>label</find>
+      <find>0.32</find>
+      <find>pull-load</find>
+      <find>touch</find>
+      <find>mkdi</find>
+      <find>Copy</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>192.168.1.212</replace>
+      <replace>贷我飞</replace>
+      <replace />
+      <replace>/api?</replace>
+      <replace>data-jump</replace>
+      <replace>product_id</replace>
+      <replace>handleDetailToDetailHideHeader</replace>
+      <replace>product_no</replace>
+      <replace>className</replace>
+      <replace>id</replace>
+      <replace>120</replace>
+      <replace>60</replace>
+      <replace>let</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\whd\reactNaitve_2.0\sd_credit_market_wap\node_modules\better-scroll</dir>
+      <dir>C:\whd\reactNaitve_2.0\sd_credit_market_wap\src</dir>
+      <dir>C:\whd\reactNaitve_2.0\sd_credit_market_wap\build</dir>
+    </dirStrings>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/template/long_ren_dai/view/input/Input.js" />
+        <option value="$PROJECT_DIR$/src/container/user/LoginQuickContainer.js" />
+        <option value="$PROJECT_DIR$/src/view/input/InputView.js" />
+        <option value="$PROJECT_DIR$/src/template/long_ren_dai/user/LoginQuickScreen.js" />
+        <option value="$PROJECT_DIR$/src/container/BaseContainer.js" />
+        <option value="$PROJECT_DIR$/src/template/long_ren_dai/details/DetailsScreen.js" />
+        <option value="$PROJECT_DIR$/src/container/EnterContainer.js" />
+        <option value="$PROJECT_DIR$/src/template/dai_wo_fei/me/collect.module.scss" />
+        <option value="$PROJECT_DIR$/src/template/dai_duo_duo/me/collect.module.scss" />
+        <option value="$PROJECT_DIR$/src/template/shan_dai_you_qian/me/collect.module.scss" />
+        <option value="$PROJECT_DIR$/src/template/long_ren_dai/me/collect.module.scss" />
+        <option value="$PROJECT_DIR$/src/template/ren_ren_yong/me/collect.module.scss" />
+        <option value="$PROJECT_DIR$/src/template/qi_bao/me/collect.module.scss" />
+        <option value="$PROJECT_DIR$/src/tools/NetUtils.js" />
+        <option value="$PROJECT_DIR$/src/container/products/DetailsContainer.js" />
+        <option value="$PROJECT_DIR$/src/template/rong_yi_zhou_zhuan/me/collect.module.scss" />
+        <option value="$PROJECT_DIR$/src/template/si_hai_qian_bao/me/collect.module.scss" />
+        <option value="$PROJECT_DIR$/src/template/da_ji_qian_bao/me/collect.module.scss" />
+        <option value="$PROJECT_DIR$/src/template/qian_hua_hua/index.js" />
+        <option value="$PROJECT_DIR$/src/template/dai_duo_duo/view/ProductItem.module.scss" />
+        <option value="$PROJECT_DIR$/src/template/rong_yi_zhou_zhuan/view/ProductItem.module.scss" />
+        <option value="$PROJECT_DIR$/src/template/rong_yi_zhou_zhuan/product/ProductListScreen.js" />
+        <option value="$PROJECT_DIR$/src/template/rong_yi_zhou_zhuan/main/MarketScreen.js" />
+        <option value="$PROJECT_DIR$/src/template/si_hai_qian_bao/view/ProductIteme.module.scss" />
+        <option value="$PROJECT_DIR$/src/template/si_hai_qian_bao/view/ProductItemee.js" />
+        <option value="$PROJECT_DIR$/src/template/si_hai_qian_bao/view/ProductIteme.js" />
+        <option value="$PROJECT_DIR$/src/template/si_hai_qian_bao/view/ProductItem.module.scss" />
+        <option value="$PROJECT_DIR$/src/template/bang_ni_jie/details/DetailsScreen.js" />
+        <option value="$PROJECT_DIR$/src/view/header/HeaderView.js" />
+        <option value="$PROJECT_DIR$/src/template/qi_bao/view/header/Header.js" />
+        <option value="$PROJECT_DIR$/src/view/PullLoadView.js" />
+        <option value="$PROJECT_DIR$/src/container/me/CollectContainer.js" />
+        <option value="$PROJECT_DIR$/src/template/qi_bao/me/CollectScreen.js" />
+        <option value="$PROJECT_DIR$/src/template/shan_dai_you_qian/me/CollectScreen.js" />
+        <option value="$PROJECT_DIR$/src/template/rong_yi_zhou_zhuan/me/CollectScreen.js" />
+        <option value="$PROJECT_DIR$/src/template/si_hai_qian_bao/me/CollectScreen.js" />
+        <option value="$PROJECT_DIR$/src/template/dai_wo_fei/me/CollectScreen.js" />
+        <option value="$PROJECT_DIR$/src/template/dai_duo_duo/me/CollectScreen.js" />
+        <option value="$PROJECT_DIR$/src/template/long_ren_dai/me/CollectScreen.js" />
+        <option value="$PROJECT_DIR$/src/template/ren_ren_yong/me/CollectScreen.js" />
+        <option value="$PROJECT_DIR$/src/template/da_ji_qian_bao/me/CollectScreen.js" />
+        <option value="$PROJECT_DIR$/src/template/bang_ni_jie/me/CollectScreen.js" />
+        <option value="$PROJECT_DIR$/src/template/qian_hua_hua/me/CollectScreen.js" />
+        <option value="$PROJECT_DIR$/src/template/bang_ni_jie/index.js" />
+        <option value="$PROJECT_DIR$/config-overrides.js" />
+        <option value="$PROJECT_DIR$/src/global.js" />
+        <option value="$PROJECT_DIR$/src/switchEnvironment.js" />
+        <option value="$PROJECT_DIR$/copyUtil.go" />
+        <option value="$PROJECT_DIR$/go.mod" />
+        <option value="$PROJECT_DIR$/util/copyUtil.go" />
+        <option value="$PROJECT_DIR$/main.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="470" />
+    <option name="y" value="405" />
+    <option name="width" value="1385" />
+    <option name="height" value="779" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="Collect&#9;null&#9;null&#10;net&#9;FILE&#9;file://D:/daichao/sd_credit_market_wap/src/tools/NetUtils.js&#10;Did&#9;null&#9;null&#10;Detail&#9;FILE&#9;file://D:/daichao/sd_credit_market_wap/src/container/products/DetailsContainer.js&#10;replace&#9;FILE&#9;file://D:/daichao/sd_credit_market_wap/node_modules/node-sass/src/libsass/src/remove_placeholders.cpp&#10;enter&#9;FILE&#9;file://D:/daichao/sd_credit_market_wap/src/container/EnterContainer.js&#10;ent&#9;null&#9;null&#10;scroll&#9;FILE&#9;file://D:/daichao/sd_credit_market_wap/src/view/ScrollView.js&#10;vconsole&#9;FILE&#9;file://D:/daichao/sd_credit_market_wap/node_modules/vconsole/src/vconsole.js&#10;console.&#9;FILE&#9;file://D:/daichao/sd_credit_market_wap/node_modules/vconsole/src/vconsole.js&#10;加载更多&#9;null&#9;null&#10;isSe&#9;null&#9;null&#10;Empty1&#9;null&#9;null&#10;Pack&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/package.json&#10;Config&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/Config.js&#10;Login&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/container/user/LoginQuickContainer.js&#10;LoginC&#9;null&#9;null&#10;Product&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/screen/product/ProductListScreen.js&#10;Message&#9;null&#9;null&#10;message&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/screen/me/MessageScreen.js&#10;ser&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/service/Service.js&#10;pack&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/package.json&#10;index&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/public/index.html&#10;netUtil&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/tools/NetUtils.js&#10;Main&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/screen/main/MainScreen.js&#10;Detai&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/container/products/DetailsContainer.js&#10;Mainsc&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/screen/main/MainScreen.js&#10;Base&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/container/BaseContainer.js&#10;abo&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/screen/me/AboutUsScreen.js&#10;Net&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/tools/NetUtils.js&#10;Ser&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/service/Service.js&#10;Produc&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/screen/product/ProductListScreen.js&#10;coll&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/container/me/CollectContainer.js&#10;Mess&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/screen/me/MessageScreen.js&#10;Produ&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/screen/product/ProductListScreen.js&#10;Marke&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/screen/main/MarketScreen.js&#10;bir&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/const/birdge.js&#10;product&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/screen/product/ProductListScreen.js&#10;Messa&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/screen/me/MessageScreen.js&#10;ab&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/screen/me/AboutUsScreen.js&#10;Market&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/screen/main/MarketScreen.js&#10;Pul&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/view/PullLoadView.js&#10;Pull&#9;ACTION&#9;Vcs.UpdateProject&#10;json&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/package.json&#10;Sto&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/tools/StorageUtil.js&#10;bird&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/const/birdge.js&#10;prod&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/screen/product/ProductListScreen.js&#10;Serv&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/service/Service.js&#10;MarketI&#9;null&#9;null&#10;Det&#9;FILE&#9;file://C:/whd/reactNaitve_2.0/sd_credit_market_wap/src/container/products/DetailsContainer.js" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2018.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\RXDA\auotpack\util" />
+      <recent name="D:\RXDA\auotpack" />
+      <recent name="C:\whd\reactNaitve_2.0\sd_credit_market_wap\src\screen\view\prodcutImg" />
+      <recent name="C:\whd\reactNaitve_2.0\sd_credit_market_wap" />
+      <recent name="C:\whd\reactNaitve_2.0\sd_credit_market_wap\src\view" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\RXDA\auotpack" />
+      <recent name="D:\daichao\sd_credit_market_wap\src\template\qian_hua_hua\me" />
+      <recent name="D:\daichao\sd_credit_market_wap\src\template\da_ji_qian_bao\me" />
+      <recent name="D:\daichao\sd_credit_market_wap\src\template\si_hai_qian_bao\me" />
+      <recent name="D:\daichao\sd_credit_market_wap\src\template\rong_yi_zhou_zhuan\me" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build copyUtil.go main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="sd_credit_market_wap" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/copyUtil.go|$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="sd_credit_market_wap" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="autopack" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build copyUtil.go main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14a54d85-123b-4a1c-bab0-680edce8d71c" name="Default Changelist" comment="" />
+      <created>1542158016400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542158016400</updated>
+      <workItem from="1542158019813" duration="29863000" />
+      <workItem from="1542243999573" duration="20922000" />
+      <workItem from="1542330671751" duration="17798000" />
+      <workItem from="1542417911617" duration="23530000" />
+      <workItem from="1542589585232" duration="13366000" />
+      <workItem from="1542606922386" duration="19223000" />
+      <workItem from="1542675865127" duration="30212000" />
+      <workItem from="1542762536428" duration="25989000" />
+      <workItem from="1542849496956" duration="29828000" />
+      <workItem from="1542935452756" duration="29176000" />
+      <workItem from="1543021645334" duration="22843000" />
+      <workItem from="1543052411319" duration="12000" />
+      <workItem from="1543194927424" duration="28568000" />
+      <workItem from="1543280925483" duration="11837000" />
+      <workItem from="1543301917322" duration="7588000" />
+      <workItem from="1543311610665" duration="6178000" />
+      <workItem from="1543367466392" duration="29471000" />
+      <workItem from="1543403961429" duration="33000" />
+      <workItem from="1543453446499" duration="34663000" />
+      <workItem from="1543499154354" duration="726000" />
+      <workItem from="1543499972118" duration="1783000" />
+      <workItem from="1543542993567" duration="23437000" />
+      <workItem from="1543575138194" duration="1267000" />
+      <workItem from="1543626664001" duration="18517000" />
+      <workItem from="1543799390603" duration="18208000" />
+      <workItem from="1543886270442" duration="19918000" />
+      <workItem from="1544058546814" duration="29365000" />
+      <workItem from="1544177015238" duration="1813000" />
+      <workItem from="1544248873528" duration="10219000" />
+      <workItem from="1544405365794" duration="18773000" />
+      <workItem from="1544436807894" duration="5548000" />
+      <workItem from="1544443533315" duration="152000" />
+      <workItem from="1544491724204" duration="17937000" />
+      <workItem from="1544516688768" duration="11736000" />
+      <workItem from="1544530357914" duration="240000" />
+      <workItem from="1544576669955" duration="10623000" />
+      <workItem from="1544663080524" duration="11222000" />
+      <workItem from="1544686418250" duration="9028000" />
+      <workItem from="1544749663490" duration="1175000" />
+      <workItem from="1544753357378" duration="15054000" />
+      <workItem from="1544836742330" duration="6944000" />
+      <workItem from="1544847906532" duration="9698000" />
+      <workItem from="1545009458756" duration="25943000" />
+      <workItem from="1545098097344" duration="595000" />
+      <workItem from="1545098765251" duration="3868000" />
+      <workItem from="1545110653759" duration="251000" />
+      <workItem from="1545131639027" duration="1856000" />
+      <workItem from="1545181048649" duration="8573000" />
+      <workItem from="1545197433180" duration="6964000" />
+      <workItem from="1545225306924" duration="402000" />
+      <workItem from="1545283884629" duration="16907000" />
+      <workItem from="1545354766622" duration="3518000" />
+      <workItem from="1546392271901" duration="17830000" />
+      <workItem from="1546477800073" duration="17756000" />
+      <workItem from="1546564505503" duration="4422000" />
+      <workItem from="1546571770812" duration="20423000" />
+      <workItem from="1546650300070" duration="10511000" />
+      <workItem from="1546667310228" duration="1253000" />
+      <workItem from="1551840123788" duration="2577000" />
+      <workItem from="1551842793935" duration="22940000" />
+      <workItem from="1551920427151" duration="25878000" />
+      <workItem from="1552007232904" duration="21015000" />
+      <workItem from="1552093824754" duration="16152000" />
+      <workItem from="1552266701137" duration="2568000" />
+      <workItem from="1552291464858" duration="35000" />
+      <workItem from="1552356572769" duration="20519000" />
+      <workItem from="1552439261425" duration="25165000" />
+      <workItem from="1552525313490" duration="22433000" />
+      <workItem from="1556154178273" duration="15332000" />
+      <workItem from="1556240561094" duration="20961000" />
+      <workItem from="1556326883675" duration="19586000" />
+      <workItem from="1556414198737" duration="21386000" />
+      <workItem from="1556499825226" duration="8732000" />
+      <workItem from="1556586167507" duration="23975000" />
+      <workItem from="1557017591215" duration="26958000" />
+      <workItem from="1557119136602" duration="21339000" />
+      <workItem from="1557194072513" duration="19572000" />
+      <workItem from="1557277150334" duration="5911000" />
+      <workItem from="1557364453268" duration="17327000" />
+      <workItem from="1557396695006" duration="965000" />
+      <workItem from="1557450530269" duration="10134000" />
+      <workItem from="1557536347423" duration="19168000" />
+      <workItem from="1557709566546" duration="28212000" />
+      <workItem from="1557795848319" duration="167000" />
+      <workItem from="1557796322462" duration="27471000" />
+      <workItem from="1557881590523" duration="24648000" />
+      <workItem from="1558054933182" duration="30627000" />
+      <workItem from="1558141253255" duration="433000" />
+    </task>
+    <task id="LOCAL-00014" summary="禁止缩放">
+      <created>1542711588532</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1542711588532</updated>
+    </task>
+    <task id="LOCAL-00015" summary="细节修改">
+      <created>1542783789998</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1542783789998</updated>
+    </task>
+    <task id="LOCAL-00016" summary="细节修改">
+      <created>1542794672345</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1542794672345</updated>
+    </task>
+    <task id="LOCAL-00017" summary="细节修改">
+      <created>1542797823612</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1542797823612</updated>
+    </task>
+    <task id="LOCAL-00018" summary="细节修改">
+      <created>1542864291222</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1542864291222</updated>
+    </task>
+    <task id="LOCAL-00019" summary="细节修改">
+      <created>1542865643594</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1542865643594</updated>
+    </task>
+    <task id="LOCAL-00020" summary="细节修改">
+      <created>1542876177919</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1542876177919</updated>
+    </task>
+    <task id="LOCAL-00021" summary="细节修改">
+      <created>1542888143492</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1542888143492</updated>
+    </task>
+    <task id="LOCAL-00022" summary="细节修改 错误处理">
+      <created>1542941926160</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1542941926160</updated>
+    </task>
+    <task id="LOCAL-00023" summary="设备信息网路状态">
+      <created>1542963747236</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1542963747236</updated>
+    </task>
+    <task id="LOCAL-00024" summary="alert删除">
+      <created>1542964630229</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1542964630229</updated>
+    </task>
+    <task id="LOCAL-00025" summary="ios andorid同步">
+      <created>1543041826549</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1543041826549</updated>
+    </task>
+    <task id="LOCAL-00026" summary="bug修改">
+      <created>1543052282437</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1543052282437</updated>
+    </task>
+    <task id="LOCAL-00027" summary="bug修改与代码优化">
+      <created>1543229725087</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1543229725087</updated>
+    </task>
+    <task id="LOCAL-00028" summary="bug修改与代码优化">
+      <created>1543403988991</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1543403988991</updated>
+    </task>
+    <task id="LOCAL-00029" summary="bug修改与代码优化">
+      <created>1543495213231</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1543495213231</updated>
+    </task>
+    <task id="LOCAL-00030" summary="bug修改与代码优化">
+      <created>1543575074531</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1543575074531</updated>
+    </task>
+    <task id="LOCAL-00031" summary="bug修改与代码优化">
+      <created>1543658722013</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1543658722013</updated>
+    </task>
+    <task id="LOCAL-00032" summary="bug修改与代码优化">
+      <created>1543923475759</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1543923475759</updated>
+    </task>
+    <task id="LOCAL-00033" summary="上拉下拉刷新   授权慢无法加载二级页面">
+      <created>1544261554645</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1544261554646</updated>
+    </task>
+    <task id="LOCAL-00034" summary="上拉下拉刷新   授权慢无法加载二级页面">
+      <created>1544443566786</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1544443566786</updated>
+    </task>
+    <task id="LOCAL-00035" summary="bug修改">
+      <created>1544520189719</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1544520189719</updated>
+    </task>
+    <task id="LOCAL-00036" summary="bug修改">
+      <created>1544530076065</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1544530076065</updated>
+    </task>
+    <task id="LOCAL-00037" summary="bug修改">
+      <created>1544664034935</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1544664034935</updated>
+    </task>
+    <task id="LOCAL-00038" summary="原生header">
+      <created>1545009606537</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1545009606537</updated>
+    </task>
+    <task id="LOCAL-00039" summary="备用金正式标识">
+      <created>1546081709434</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1546081709434</updated>
+    </task>
+    <task id="LOCAL-00040" summary="适配 iphonex  iphoneXR  iphoneXS  iphoneXS MAX">
+      <created>1546484023187</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1546484023187</updated>
+    </task>
+    <task id="LOCAL-00041" summary="微粒贷">
+      <created>1551865833370</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1551865833371</updated>
+    </task>
+    <task id="LOCAL-00042" summary="微粒贷">
+      <created>1551937324142</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1551937324142</updated>
+    </task>
+    <task id="LOCAL-00043" summary="四海钱包">
+      <created>1551960846620</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1551960846620</updated>
+    </task>
+    <task id="LOCAL-00044" summary="四海钱包">
+      <created>1552018731692</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1552018731692</updated>
+    </task>
+    <task id="LOCAL-00045" summary="融益周转、微粒贷bug修改，">
+      <created>1552096327481</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1552096327481</updated>
+    </task>
+    <task id="LOCAL-00046" summary="微粒贷">
+      <created>1552455052905</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1552455052905</updated>
+    </task>
+    <task id="LOCAL-00047" summary="微粒贷 空页面">
+      <created>1552455163163</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1552455163163</updated>
+    </task>
+    <task id="LOCAL-00048" summary="大吉钱包">
+      <created>1552469049121</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1552469049121</updated>
+    </task>
+    <task id="LOCAL-00049" summary="大吉钱包">
+      <created>1552534073665</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1552534073665</updated>
+    </task>
+    <task id="LOCAL-00050" summary="大吉钱包">
+      <created>1552545239637</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1552545239638</updated>
+    </task>
+    <task id="LOCAL-00051" summary="大吉钱包">
+      <created>1552550358744</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1552550358744</updated>
+    </task>
+    <task id="LOCAL-00052" summary="大吉钱包">
+      <created>1552551201051</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1552551201051</updated>
+    </task>
+    <task id="LOCAL-00053" summary="融易周转">
+      <created>1556097914836</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1556097914836</updated>
+    </task>
+    <task id="LOCAL-00054" summary="融易周转">
+      <created>1556098209024</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1556098209024</updated>
+    </task>
+    <task id="LOCAL-00055" summary="代码同步">
+      <created>1556615452068</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1556615452068</updated>
+    </task>
+    <task id="LOCAL-00056" summary="大吉钱包、大王贷、七宝、四海钱包bug修改，去借钱、微粒贷代码同步">
+      <created>1557042185009</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1557042185010</updated>
+    </task>
+    <task id="LOCAL-00057" summary="备用金、大王贷、去借钱详情页单双列bug修改">
+      <created>1557050049130</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1557050049130</updated>
+    </task>
+    <task id="LOCAL-00058" summary="所有项目代码同步">
+      <created>1557208088988</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1557208088988</updated>
+    </task>
+    <task id="LOCAL-00059" summary="app启动次数、闪贷有钱中收藏页页面的修改">
+      <created>1557551424471</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1557551424472</updated>
+    </task>
+    <task id="LOCAL-00060" summary="帮你借新项目">
+      <created>1557742084597</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1557742084598</updated>
+    </task>
+    <task id="LOCAL-00061" summary="详情页页面——》详情页页面PV统计的bug、龙人贷展示贷款范围修改（未加APP启动次数）">
+      <created>1557914625391</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1557914625391</updated>
+    </task>
+    <task id="LOCAL-00062" summary="收藏页面修改">
+      <created>1558089759732</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1558089759734</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1278055000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="470" y="405" width="1385" height="779" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49839228" visible="true" weight="0.32226416" />
+      <window_info id="Structure" order="1" sideWeight="0.5016077" side_tool="true" weight="0.15113218" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.24588364" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.39045554" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32792208" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49947312" weight="0.45670995" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49789253" visible="true" weight="0.3906977" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="TypeScript" order="12" weight="0.32900432" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5021075" side_tool="true" weight="0.27597404" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" show_stripe_button="false" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dev" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="me" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="me" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="wanghaidong" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="禁止缩放" />
+    <MESSAGE value="细节修改" />
+    <MESSAGE value="细节修改 错误处理" />
+    <MESSAGE value="设备信息网路状态" />
+    <MESSAGE value="alert删除" />
+    <MESSAGE value="ios andorid同步" />
+    <MESSAGE value="bug修改与代码优化" />
+    <MESSAGE value="上拉下拉刷新   授权慢无法加载二级页面" />
+    <MESSAGE value="bug修改" />
+    <MESSAGE value="原生header" />
+    <MESSAGE value="适配 iphonex  iphoneXR  iphoneXS  iphoneXS MAX" />
+    <MESSAGE value="四海钱包" />
+    <MESSAGE value="融益周转、微粒贷bug修改，" />
+    <MESSAGE value="微粒贷" />
+    <MESSAGE value="微粒贷 空页面" />
+    <MESSAGE value="大吉钱包" />
+    <MESSAGE value="融易周转" />
+    <MESSAGE value="代码同步" />
+    <MESSAGE value="大吉钱包、大王贷、七宝、四海钱包bug修改，去借钱、微粒贷代码同步" />
+    <MESSAGE value="备用金、大王贷、去借钱详情页单双列bug修改" />
+    <MESSAGE value="所有项目代码同步" />
+    <MESSAGE value="app启动次数、闪贷有钱中收藏页页面的修改" />
+    <MESSAGE value="帮你借新项目" />
+    <MESSAGE value="详情页页面——》详情页页面PV统计的bug、龙人贷展示贷款范围修改（未加APP启动次数）" />
+    <MESSAGE value="收藏页面修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="收藏页面修改" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/template/bang_ni_jie/index.js</url>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main.go</url>
+          <line>60</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/template/rong_yi_zhou_zhuan/view/ProductItem.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/rong_yi_zhou_zhuan/view/ProductIteme.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/rong_yi_zhou_zhuan/details/DetailsScreen.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/rong_yi_zhou_zhuan/view/ProductItem.module.scss" />
+    <entry file="file://$PROJECT_DIR$/src/template/rong_yi_zhou_zhuan/product/ProductListScreen.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/si_hai_qian_bao/view/ProductIteme.module.scss" />
+    <entry file="file://$PROJECT_DIR$/src/template/si_hai_qian_bao/view/ProductItemee.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/si_hai_qian_bao/main/MarketScreen.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/si_hai_qian_bao/view/ProductIteme.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/si_hai_qian_bao/view/ProductItem.module.scss" />
+    <entry file="file://$PROJECT_DIR$/src/template/si_hai_qian_bao/details/DetailsScreen.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/da_ji_qian_bao/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/qian_hua_hua/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/bang_ni_jie/main/MarketScreen.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/bang_ni_jie/main/mainModule/ColumnTwoModuleScreen.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/bang_ni_jie/details/DetailsScreen.js" />
+    <entry file="file://$PROJECT_DIR$/src/view/header/HeaderView.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/qi_bao/view/EmptyView.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/qi_bao/me/MessageScreen.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/qi_bao/view/header/Header.js" />
+    <entry file="file://$PROJECT_DIR$/src/view/PullLoadView.js" />
+    <entry file="file://$PROJECT_DIR$/src/container/BaseContainer.js" />
+    <entry file="file://$PROJECT_DIR$/src/container/me/CollectContainer.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/si_hai_qian_bao/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/rong_yi_zhou_zhuan/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/rong_yi_zhou_zhuan/me/CollectScreen.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/si_hai_qian_bao/me/CollectScreen.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/qi_bao/me/CollectScreen.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/dai_duo_duo/me/CollectScreen.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/long_ren_dai/me/CollectScreen.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/ren_ren_yong/me/CollectScreen.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/da_ji_qian_bao/me/CollectScreen.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/bang_ni_jie/me/CollectScreen.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/qian_hua_hua/me/MessageScreen.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/qian_hua_hua/me/CollectScreen.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/shan_dai_you_qian/me/CollectScreen.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/dai_wo_fei/me/CollectScreen.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/dai_wo_fei/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/dai_duo_duo/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/shan_dai_you_qian/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/long_ren_dai/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/qi_bao/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/ren_ren_yong/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/template/bang_ni_jie/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/switchEnvironment.js" />
+    <entry file="file://D:/Go/src/runtime/proc.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="221" selection-start-line="221" selection-end-line="221" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-overrides.js" />
+    <entry file="file://$PROJECT_DIR$/src/global.js" />
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/CopyUtil.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
