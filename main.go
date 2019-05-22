@@ -8,10 +8,12 @@ import (
 	"os"
 	"os/exec"
 	"regexp"
+	"strconv"
 	"strings"
 )
 
 var globalJsLines []string
+var config string
 
 const GLOBALJSPATH = "./src/global.js"
 
@@ -22,6 +24,11 @@ func main() {
 	globalJsByte, err := ioutil.ReadFile(GLOBALJSPATH)
 	globalJsLines = strings.Split(string(globalJsByte), "\n")
 	checkErr(err)
+
+	//修改config-overrides.js
+	configByte, err := ioutil.ReadFile(CONFIGPATH)
+	checkErr(err)
+	config = string(configByte)
 
 	files := make(map[string]bool)
 	folders := make(map[string]bool)
@@ -52,11 +59,26 @@ func main() {
 	checkErr(err)
 
 	templateNames := make(map[string]string)
-	for _, v := range templates {
-		if v.IsDir() {
-			templateNames[v.Name()] = "./src/template/" + v.Name()
+
+	fmt.Println("检测到如下app，请输入要打包的app编号,英文逗号分隔")
+	for k,v :=range templates{
+		fmt.Printf("%d : %s\n", k,v.Name())
+	}
+	//读取输入
+	var keys string
+	_, err = fmt.Scanf("%s", &keys)
+	checkErr(err)
+	//分解为编号
+	keysStr :=strings.Split(keys, ",")
+
+	for _, v := range keysStr {
+		key, err := strconv.Atoi(v)
+		checkErr(err)
+		if templates[key].IsDir() {
+			templateNames[templates[key].Name()] = "./src/template/" + templates[key].Name()
 		}
 	}
+
 	//build
 	for k, v := range templateNames {
 		fmt.Println("building", k)
@@ -135,11 +157,7 @@ func editConfig(path string) (string, error) {
 	if len(result) != 0 && len(result[0]) == 2 {
 		appNo := string(result[0][1])
 		appNoString := fmt.Sprintf("const dir = '%s/';", appNo)
-		//修改config-overrides.js
-		config, err := ioutil.ReadFile(CONFIGPATH)
-		if err != nil {
-			return "", err
-		}
+
 		//替换appNo
 		configStr := string(config)
 		configAppNoReg := regexp.MustCompile(`const dir = '\d+/';`)
